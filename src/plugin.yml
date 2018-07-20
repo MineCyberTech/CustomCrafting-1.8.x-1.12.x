@@ -1,0 +1,6 @@
+name: CustomCrafting
+version: 1.4.1
+author: WolfyScript
+
+main: me.wolfyscript.customcrafting.main.CustomCrafting
+
