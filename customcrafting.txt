@@ -1,0 +1,2 @@
+version=1.4.3
+languages=en_US, de_DE
