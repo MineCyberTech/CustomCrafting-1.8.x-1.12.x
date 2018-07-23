@@ -1,2 +1,2 @@
-version=1.4.3
+latest_version=1.4.3
 languages=en_US, de_DE
