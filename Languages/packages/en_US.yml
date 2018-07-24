@@ -1,19 +1,20 @@
 # Language: en_US
 
-loading-languages: Loading languages...
-loading-recipes: Loading recipes.....
+translated_by: 'WolfyScript yt: https://www.youtube.com/channel/UCTlqRLm4PxZuAI4nVN4X74g'
+# ######################################################################################################
+loading-languages: 'Loading languages...'
+loading-recipes: 'Loading recipes.....'
 loading-recipe-file: 'Loading recipe out of '
 loading-recipe-successful: 'Successfully loaded recipe '
 loading-complete: '                           Everything successfully loaded!                           '
 # ######################################################################################################
 error-workbench-material: 'Cause: can''t get Material: '
-error-workbench: ERROR loading Workbench crafting recipe!
+error-workbench: 'ERROR loading Workbench crafting recipe!'
 error-recipe-material: 'Cause: can''t get Material: '
 error-recipe-output: 'Cause: can''t load output item!'
 error-recipe: 'ERROR loading Custom recipe: '
 # ######################################################################################################
-config-example-enchantments: Every enchantment > ID:Level < The Enchant IDs can be
-  found here -> https://minecraft.gamepedia.com/Enchanting#Summary_of_enchantments
-config-example-materials-0: Item ID or the name from Spigot can be used!
-config-example-materials-1: When Shapeless recipe add materials with any key you want!
-config-main-debug: Just for testing purpose
+config-example-enchantments: 'Every enchantment > ID:Level < The Enchant IDs can be found here -> https://minecraft.gamepedia.com/Enchanting#Summary_of_enchantments'
+config-example-materials-0: 'Item ID or the name from Spigot can be used!'
+config-example-materials-1: 'When Shapeless recipe add materials with any key you want!'
+config-main-debug: 'Just for testing purpose'
